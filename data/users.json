@@ -96,5 +96,33 @@
     },
     "_id": "17774009020317g89kes",
     "createdAt": "2026-04-28T18:28:22.031Z"
+  },
+  {
+    "email": "test3@m.ru",
+    "password": "h_11ki",
+    "nickname": "Петя",
+    "role": "organizer",
+    "stats": {
+      "played": 0,
+      "created": 0,
+      "points": 0,
+      "wins": 0
+    },
+    "_id": "mok3v338meozl",
+    "createdAt": "2026-04-29T13:43:18.884Z"
+  },
+  {
+    "email": "test4@m.ru",
+    "password": "h_11ki",
+    "nickname": "кирилл",
+    "role": "participant",
+    "stats": {
+      "played": 0,
+      "created": 0,
+      "points": 0,
+      "wins": 0
+    },
+    "_id": "mok40cuxkp23z",
+    "createdAt": "2026-04-29T13:47:24.825Z"
   }
 ]

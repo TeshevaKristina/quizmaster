@@ -239,5 +239,40 @@
     "status": "finished",
     "_id": "mok1n4ctl3wy4",
     "createdAt": "2026-04-29T12:41:08.045Z"
+  },
+  {
+    "title": "erffewfe",
+    "category": "Общее",
+    "duration": 30,
+    "maxParticipants": 50,
+    "organizerId": "mok3v338meozl",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "hefrf",
+        "imageUrl": null,
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "wefwefwefw",
+            "isCorrect": true
+          },
+          {
+            "text": "wefwf",
+            "isCorrect": false
+          },
+          {
+            "text": "wefwef",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "NXXBUL",
+    "status": "finished",
+    "_id": "mok3vuhdgtd0e",
+    "createdAt": "2026-04-29T13:43:54.385Z"
   }
 ]

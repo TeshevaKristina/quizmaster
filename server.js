@@ -81,6 +81,12 @@ app.get('/api/history/:uid', (req, res) => {
   res.json(load('history').filter(h => h.organizerId === req.params.uid));
 });
 
+app.delete('/api/history/:uid', (req, res) => {
+  const allHistory = load('history');
+  save('history', allHistory.filter(h => h.organizerId !== req.params.uid));
+  res.json({ success: true });
+});
+
 app.delete('/api/quizzes/:id', (req, res) => {
   const quizzes = load('quizzes');
   save('quizzes', quizzes.filter(q => q._id !== req.params.id));

@@ -1,15 +1,15 @@
 [
   {
-    "roomCode": "QMRI6R",
-    "quizTitle": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
+    "roomCode": "99M54V",
+    "quizTitle": "erffewfe",
+    "organizerId": "mok3v338meozl",
     "participants": [
       {
-        "sid": "Z7sDKvWekPAk5MQOAAAD",
+        "sid": "7l_NLW_s6fxoTpDZAAAF",
         "userId": "17774009020317g89kes",
         "nickname": "Витя",
         "score": 0,
-        "totalTime": 1,
+        "totalTime": 3,
         "answeredQuestions": [
           0
         ]
@@ -20,164 +20,20 @@
         "nickname": "Витя",
         "score": 0,
         "rank": 1,
-        "time": "0:01"
-      }
-    ],
-    "finishedAt": "2026-04-29T10:17:05.706Z",
-    "_id": "mojwhvvvcnb52",
-    "createdAt": "2026-04-29T10:17:05.707Z"
-  },
-  {
-    "roomCode": "R549GR",
-    "quizTitle": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [
-      {
-        "sid": "RzUhBfxdTmviRieYAAAN",
-        "userId": "17774009020317g89kes",
-        "nickname": "Витя",
-        "score": 98,
-        "totalTime": 3,
-        "answeredQuestions": [
-          0,
-          1
-        ]
-      }
-    ],
-    "leaderboard": [
-      {
-        "nickname": "Витя",
-        "score": 98,
-        "rank": 1,
         "time": "0:03"
       }
     ],
-    "finishedAt": "2026-04-29T10:49:38.077Z",
-    "_id": "mojxnqceune87",
-    "createdAt": "2026-04-29T10:49:38.078Z"
+    "finishedAt": "2026-04-29T13:44:17.467Z",
+    "_id": "mok3wcakkuaa8",
+    "createdAt": "2026-04-29T13:44:17.468Z"
   },
   {
-    "roomCode": "BG0790",
-    "quizTitle": "Проверка2",
-    "organizerId": "1777400889169x24ogjd",
+    "roomCode": "96I78I",
+    "quizTitle": "erffewfe",
+    "organizerId": "mok3v338meozl",
     "participants": [
       {
-        "sid": "NI8k2srryjdnkly8AAAN",
-        "userId": "17774009020317g89kes",
-        "nickname": "Витя",
-        "score": 196,
-        "totalTime": 2,
-        "answeredQuestions": [
-          0,
-          1
-        ]
-      }
-    ],
-    "leaderboard": [
-      {
-        "nickname": "Витя",
-        "score": 196,
-        "rank": 1,
-        "time": "0:02"
-      }
-    ],
-    "finishedAt": "2026-04-29T11:58:03.560Z",
-    "_id": "mok03q5ll6sne",
-    "createdAt": "2026-04-29T11:58:03.561Z"
-  },
-  {
-    "roomCode": "QNOYAN",
-    "quizTitle": "п",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [
-      {
-        "sid": "NI8k2srryjdnkly8AAAN",
-        "userId": "17774009020317g89kes",
-        "nickname": "Витя",
-        "score": 82,
-        "totalTime": 9,
-        "answeredQuestions": [
-          0
-        ]
-      }
-    ],
-    "leaderboard": [
-      {
-        "nickname": "Витя",
-        "score": 82,
-        "rank": 1,
-        "time": "0:09"
-      }
-    ],
-    "finishedAt": "2026-04-29T11:59:59.001Z",
-    "_id": "mok06789wto1c",
-    "createdAt": "2026-04-29T11:59:59.001Z"
-  },
-  {
-    "roomCode": "GXR4TP",
-    "quizTitle": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [
-      {
-        "sid": "wxUYhrJx2no1qSBiAAAL",
-        "userId": "17774009020317g89kes",
-        "nickname": "Витя",
-        "score": 98,
-        "totalTime": 3,
-        "answeredQuestions": [
-          0,
-          1
-        ]
-      }
-    ],
-    "leaderboard": [
-      {
-        "nickname": "Витя",
-        "score": 98,
-        "rank": 1,
-        "time": "0:03"
-      }
-    ],
-    "finishedAt": "2026-04-29T12:27:27.135Z",
-    "_id": "mok15ixsj44hq",
-    "createdAt": "2026-04-29T12:27:27.136Z"
-  },
-  {
-    "roomCode": "R549GR",
-    "quizTitle": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [
-      {
-        "sid": "qhT2SCWK8IXgzNXMAAAD",
-        "userId": "17774009020317g89kes",
-        "nickname": "Витя",
-        "score": 198,
-        "totalTime": 1,
-        "answeredQuestions": [
-          0,
-          1
-        ]
-      }
-    ],
-    "leaderboard": [
-      {
-        "nickname": "Витя",
-        "score": 198,
-        "rank": 1,
-        "time": "0:01"
-      }
-    ],
-    "finishedAt": "2026-04-29T12:40:37.976Z",
-    "_id": "mok1mh5k7u0ro",
-    "createdAt": "2026-04-29T12:40:37.976Z"
-  },
-  {
-    "roomCode": "1DLI53",
-    "quizTitle": "dsfaff",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [
-      {
-        "sid": "qhT2SCWK8IXgzNXMAAAD",
+        "sid": "7l_NLW_s6fxoTpDZAAAF",
         "userId": "17774009020317g89kes",
         "nickname": "Витя",
         "score": 96,
@@ -195,21 +51,21 @@
         "time": "0:02"
       }
     ],
-    "finishedAt": "2026-04-29T12:41:22.116Z",
-    "_id": "mok1nf7o6woz2",
-    "createdAt": "2026-04-29T12:41:22.116Z"
+    "finishedAt": "2026-04-29T13:44:39.147Z",
+    "_id": "mok3wt0rc6bh7",
+    "createdAt": "2026-04-29T13:44:39.147Z"
   },
   {
-    "roomCode": "GXR4TP",
-    "quizTitle": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
+    "roomCode": "NXXBUL",
+    "quizTitle": "erffewfe",
+    "organizerId": "mok3v338meozl",
     "participants": [
       {
-        "sid": "qhT2SCWK8IXgzNXMAAAD",
+        "sid": "7l_NLW_s6fxoTpDZAAAF",
         "userId": "17774009020317g89kes",
         "nickname": "Витя",
-        "score": 98,
-        "totalTime": 1,
+        "score": 78,
+        "totalTime": 11,
         "answeredQuestions": [
           0
         ]
@@ -218,33 +74,13 @@
     "leaderboard": [
       {
         "nickname": "Витя",
-        "score": 98,
+        "score": 78,
         "rank": 1,
-        "time": "0:01"
+        "time": "0:11"
       }
     ],
-    "finishedAt": "2026-04-29T12:42:05.737Z",
-    "_id": "mok1ocvecnl1q",
-    "createdAt": "2026-04-29T12:42:05.738Z"
-  },
-  {
-    "roomCode": "QNOYAN",
-    "quizTitle": "п",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [],
-    "leaderboard": [],
-    "finishedAt": "2026-04-29T13:11:45.722Z",
-    "_id": "mok2qibeccke2",
-    "createdAt": "2026-04-29T13:11:45.722Z"
-  },
-  {
-    "roomCode": "QMRI6R",
-    "quizTitle": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
-    "participants": [],
-    "leaderboard": [],
-    "finishedAt": "2026-04-29T13:11:59.569Z",
-    "_id": "mok2qt02bzggo",
-    "createdAt": "2026-04-29T13:11:59.570Z"
+    "finishedAt": "2026-04-29T13:46:46.860Z",
+    "_id": "mok3zjkcq1hh0",
+    "createdAt": "2026-04-29T13:46:46.860Z"
   }
 ]
