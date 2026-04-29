@@ -1,0 +1,926 @@
+[
+  {
+    "quizId": "1777400950508cs8x6aj",
+    "roomCode": "X0079R",
+    "participants": [
+      {
+        "id": "bNN92qLGHiVn7e0fAAA_",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selectedAnswer": 0,
+            "isCorrect": false,
+            "timeSpent": 0,
+            "pointsEarned": 0
+          },
+          {
+            "questionIndex": 1,
+            "selectedAnswer": 1,
+            "isCorrect": false,
+            "timeSpent": 0,
+            "pointsEarned": 0
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-28T18:48:29.349Z",
+    "_id": "1777402109350zbqsn2s",
+    "createdAt": "2026-04-28T18:48:29.350Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "90T811",
+    "participants": [],
+    "leaderboard": [],
+    "finishedAt": "2026-04-28T18:49:14.623Z",
+    "_id": "17774021546239nwvbei",
+    "createdAt": "2026-04-28T18:49:14.623Z"
+  },
+  {
+    "quizId": "1777400950508cs8x6aj",
+    "roomCode": "GXR4TP",
+    "participants": [
+      {
+        "id": "oeGFmbioduHwU1KdAACD",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selectedAnswer": 0,
+            "isCorrect": false,
+            "timeSpent": 3,
+            "pointsEarned": 0
+          },
+          {
+            "questionIndex": 1,
+            "selectedAnswer": 1,
+            "isCorrect": false,
+            "timeSpent": 3,
+            "pointsEarned": 0
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-28T20:37:37.045Z",
+    "_id": "1777408657046ejy7ndo",
+    "createdAt": "2026-04-28T20:37:37.046Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "oeGFmbioduHwU1KdAACD",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 200,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selectedAnswer": 0,
+            "isCorrect": true,
+            "timeSpent": 2,
+            "pointsEarned": 100
+          },
+          {
+            "questionIndex": 1,
+            "selectedAnswer": 0,
+            "isCorrect": true,
+            "timeSpent": 5,
+            "pointsEarned": 100
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 200
+      }
+    ],
+    "finishedAt": "2026-04-28T20:40:20.489Z",
+    "_id": "17774088204909ju9laz",
+    "createdAt": "2026-04-28T20:40:20.490Z"
+  },
+  {
+    "quizId": "mojtayixvwdsc",
+    "roomCode": "FUL4FD",
+    "participants": [
+      {
+        "id": "SkUfpdiveu3MZf0SAAAD",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 2,
+            "correct": false,
+            "points": 0,
+            "time": 8
+          },
+          {
+            "questionIndex": 1,
+            "selected": 2,
+            "correct": false,
+            "points": 0,
+            "time": 4
+          }
+        ]
+      },
+      {
+        "id": "sdnM9-bwqaJdgoqPAAAB",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 65,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 4
+          },
+          {
+            "questionIndex": 1,
+            "selected": 1,
+            "correct": true,
+            "points": 65,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 65
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T08:48:28.248Z",
+    "_id": "mojtbwwymf1h3",
+    "createdAt": "2026-04-29T08:48:28.258Z"
+  },
+  {
+    "quizId": "1777405165781ubu43b9",
+    "roomCode": "BG0790",
+    "participants": [
+      {
+        "id": "SkUfpdiveu3MZf0SAAAD",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 100,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": false,
+            "points": 0,
+            "time": 3
+          }
+        ]
+      },
+      {
+        "id": "sdnM9-bwqaJdgoqPAAAB",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 100,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 3
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": false,
+            "points": 0,
+            "time": 1
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Организатор",
+        "score": 100
+      },
+      {
+        "rank": 2,
+        "nickname": "Витя",
+        "score": 100
+      }
+    ],
+    "finishedAt": "2026-04-29T08:49:33.994Z",
+    "_id": "mojtdbmz4ii0e",
+    "createdAt": "2026-04-29T08:49:33.995Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "SkUfpdiveu3MZf0SAAAD",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 1
+          },
+          {
+            "questionIndex": 1,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 4
+          }
+        ]
+      },
+      {
+        "id": "sdnM9-bwqaJdgoqPAAAB",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 200,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 200
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T08:54:56.841Z",
+    "_id": "mojtk8qxobxj6",
+    "createdAt": "2026-04-29T08:54:56.841Z"
+  },
+  {
+    "quizId": "1777405165781ubu43b9",
+    "roomCode": "BG0790",
+    "participants": [
+      {
+        "id": "pDA6EwijsTIF9QPgAAAH",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "fPdNp396oFU1e6ydAAAF",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 100,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 6
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": false,
+            "points": 0,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 100
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:05:37.436Z",
+    "_id": "mojtxz18mxfz0",
+    "createdAt": "2026-04-29T09:05:37.436Z"
+  },
+  {
+    "quizId": "1777405165781ubu43b9",
+    "roomCode": "BG0790",
+    "participants": [
+      {
+        "id": "7vXJVAtxkfMCGq6mAAAN",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "_kERi8UphpnynPFkAAAP",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": false,
+            "points": 0,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Организатор",
+        "score": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:09:22.150Z",
+    "_id": "moju2sfbwed3a",
+    "createdAt": "2026-04-29T09:09:22.151Z"
+  },
+  {
+    "quizId": "mojtayixvwdsc",
+    "roomCode": "FUL4FD",
+    "participants": [
+      {
+        "id": "z7HUoJMJYVdbULD8AAAd",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "T2Nn349FKXKQ4ym_AAAf",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 1
+          },
+          {
+            "questionIndex": 1,
+            "selected": 2,
+            "correct": false,
+            "points": 0,
+            "time": 3
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Организатор",
+        "score": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:22:33.384Z",
+    "_id": "mojujqy1djyia",
+    "createdAt": "2026-04-29T09:22:33.385Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "B5up4TkvBMfNvdgsAAAp",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "Jbx3wcqtXMkbinrcAAAr",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 200,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 200
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:31:33.120Z",
+    "_id": "mojuvbepmznbt",
+    "createdAt": "2026-04-29T09:31:33.121Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "JtZOa1MkwJzlDYHkAABH",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "aAsmNZXFrM3mVC_tAABE",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "aAsmNZXFrM3mVC_tAABE",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "aAsmNZXFrM3mVC_tAABE",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "aAsmNZXFrM3mVC_tAABE",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "uWkXIBbWZ8J72FjJAABL",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 100,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 1
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 100
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      },
+      {
+        "rank": 3,
+        "nickname": "Витя",
+        "score": 0
+      },
+      {
+        "rank": 4,
+        "nickname": "Витя",
+        "score": 0
+      },
+      {
+        "rank": 5,
+        "nickname": "Витя",
+        "score": 0
+      },
+      {
+        "rank": 6,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:45:59.678Z",
+    "_id": "mojvdw1rvzur4",
+    "createdAt": "2026-04-29T09:45:59.679Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "LH35EV",
+    "participants": [
+      {
+        "id": "v76SxLTk8AFV_mH3AABZ",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "kc3TfEYCKTme9t27AABX",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "kc3TfEYCKTme9t27AABX",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "kc3TfEYCKTme9t27AABX",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": []
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Организатор",
+        "score": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "Витя",
+        "score": 0
+      },
+      {
+        "rank": 3,
+        "nickname": "Витя",
+        "score": 0
+      },
+      {
+        "rank": 4,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:52:32.382Z",
+    "_id": "mojvmb270jnim",
+    "createdAt": "2026-04-29T09:52:32.383Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "XNIC4vWhRCUUhTZWAABf",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "6G_GqO3vYtEWAu7TAABh",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 100,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 1
+          },
+          {
+            "questionIndex": 1,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 100
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:53:12.121Z",
+    "_id": "mojvn5q133rma",
+    "createdAt": "2026-04-29T09:53:12.121Z"
+  },
+  {
+    "quizId": "1777405165781ubu43b9",
+    "roomCode": "BG0790",
+    "participants": [
+      {
+        "id": "j4jLVAKaQqBKSCjNAABn",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "aT1VuGNfH3MDqboZAABp",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 200,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 1
+          },
+          {
+            "questionIndex": 1,
+            "selected": 1,
+            "correct": true,
+            "points": 100,
+            "time": 4
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 200
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T09:58:45.928Z",
+    "_id": "mojvubagm7niz",
+    "createdAt": "2026-04-29T09:58:45.928Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "pFXbEnTZpzBDs29dAABr",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "BD95p2f0ehvi9Ow3AABt",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 200,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 200
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T10:07:49.185Z",
+    "_id": "mojw5ygximvwn",
+    "createdAt": "2026-04-29T10:07:49.185Z"
+  },
+  {
+    "quizId": "1777402148292sl34k05",
+    "roomCode": "QMRI6R",
+    "participants": [
+      {
+        "id": "Nal2EiqiUBv8i7vIAABv",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "b3lnmHykutNn9cW4AABx",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 200,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 1
+          },
+          {
+            "questionIndex": 1,
+            "selected": 0,
+            "correct": true,
+            "points": 100,
+            "time": 2
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Витя",
+        "score": 200
+      },
+      {
+        "rank": 2,
+        "nickname": "Организатор",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T10:11:53.020Z",
+    "_id": "mojwb6m4tw7nw",
+    "createdAt": "2026-04-29T10:11:53.020Z"
+  },
+  {
+    "quizId": "1777400950508cs8x6aj",
+    "roomCode": "GXR4TP",
+    "participants": [
+      {
+        "id": "oXe5tkSpGCyMdcziAABz",
+        "userId": null,
+        "nickname": "Организатор",
+        "score": 0,
+        "answers": []
+      },
+      {
+        "id": "EzOxEi5hbgugfWCnAAB1",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "answers": [
+          {
+            "questionIndex": 0,
+            "selected": 0,
+            "correct": false,
+            "points": 0,
+            "time": 2
+          },
+          {
+            "questionIndex": 1,
+            "selected": 1,
+            "correct": false,
+            "points": 0,
+            "time": 1
+          }
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "rank": 1,
+        "nickname": "Организатор",
+        "score": 0
+      },
+      {
+        "rank": 2,
+        "nickname": "Витя",
+        "score": 0
+      }
+    ],
+    "finishedAt": "2026-04-29T10:15:52.277Z",
+    "_id": "mojwgb86cyle1",
+    "createdAt": "2026-04-29T10:15:52.278Z"
+  }
+]

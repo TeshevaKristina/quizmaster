@@ -1,0 +1,59 @@
+[
+  {
+    "roomCode": "QMRI6R",
+    "quizTitle": "Проверка",
+    "organizerId": "1777400889169x24ogjd",
+    "participants": [
+      {
+        "sid": "Z7sDKvWekPAk5MQOAAAD",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 0,
+        "totalTime": 1,
+        "answeredQuestions": [
+          0
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "nickname": "Витя",
+        "score": 0,
+        "rank": 1,
+        "time": "0:01"
+      }
+    ],
+    "finishedAt": "2026-04-29T10:17:05.706Z",
+    "_id": "mojwhvvvcnb52",
+    "createdAt": "2026-04-29T10:17:05.707Z"
+  },
+  {
+    "roomCode": "R549GR",
+    "quizTitle": "Проверка",
+    "organizerId": "1777400889169x24ogjd",
+    "participants": [
+      {
+        "sid": "RzUhBfxdTmviRieYAAAN",
+        "userId": "17774009020317g89kes",
+        "nickname": "Витя",
+        "score": 98,
+        "totalTime": 3,
+        "answeredQuestions": [
+          0,
+          1
+        ]
+      }
+    ],
+    "leaderboard": [
+      {
+        "nickname": "Витя",
+        "score": 98,
+        "rank": 1,
+        "time": "0:03"
+      }
+    ],
+    "finishedAt": "2026-04-29T10:49:38.077Z",
+    "_id": "mojxnqceune87",
+    "createdAt": "2026-04-29T10:49:38.078Z"
+  }
+]

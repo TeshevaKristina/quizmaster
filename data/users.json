@@ -1,0 +1,100 @@
+[
+  {
+    "email": "m2410932@edu.misis.ru",
+    "password": "h_11ki",
+    "nickname": "анна",
+    "role": "organizer",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "1777399414900783msa6",
+    "createdAt": "2026-04-28T18:03:34.900Z"
+  },
+  {
+    "email": "anna@test.ru",
+    "password": "h_11ki",
+    "nickname": "Анна",
+    "role": "organizer",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "1777399492999qiyar0d",
+    "createdAt": "2026-04-28T18:04:52.999Z"
+  },
+  {
+    "email": " ivan@test.ru",
+    "password": "h_11ki",
+    "nickname": "Иван",
+    "role": "participant",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "1777399513707dwqsjce",
+    "createdAt": "2026-04-28T18:05:13.707Z"
+  },
+  {
+    "email": "tesheva.kristina@yandex.ru",
+    "password": "h_11ki",
+    "nickname": "Дима",
+    "role": "organizer",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "1777399911966wkj54wz",
+    "createdAt": "2026-04-28T18:11:51.966Z"
+  },
+  {
+    "email": "test@m.ru",
+    "password": "h_11ki",
+    "nickname": "Коля",
+    "role": "participant",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "1777399942602mhvbcsw",
+    "createdAt": "2026-04-28T18:12:22.602Z"
+  },
+  {
+    "email": "test1@m.ru",
+    "password": "h_11ki",
+    "nickname": "Митя",
+    "role": "organizer",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "1777400889169x24ogjd",
+    "createdAt": "2026-04-28T18:28:09.169Z"
+  },
+  {
+    "email": "test2@m.ru",
+    "password": "h_11ki",
+    "nickname": "Витя",
+    "role": "participant",
+    "stats": {
+      "quizzesPlayed": 0,
+      "quizzesCreated": 0,
+      "totalPoints": 0,
+      "wins": 0
+    },
+    "_id": "17774009020317g89kes",
+    "createdAt": "2026-04-28T18:28:22.031Z"
+  }
+]

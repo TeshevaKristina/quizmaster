@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Тест",
+    "category": "Общее",
+    "organizerId": "1777399492999qiyar0d",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "Все работает?",
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Да",
+            "isCorrect": false
+          },
+          {
+            "text": "Нет",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "V5U6MJ",
+    "status": "draft",
+    "_id": "17773995746080k1eu7l",
+    "createdAt": "2026-04-28T18:06:14.608Z"
+  },
+  {
+    "title": "Проверка",
+    "category": "Общее",
+    "organizerId": "1777399911966wkj54wz",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "Работает?",
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Да",
+            "isCorrect": false
+          },
+          {
+            "text": "Нет",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "questionText": "Точно?",
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Наверное",
+            "isCorrect": false
+          },
+          {
+            "text": "Неуверен",
+            "isCorrect": false
+          },
+          {
+            "text": "Мб",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "BTJ0FV",
+    "status": "draft",
+    "_id": "1777399978246on2fbw4",
+    "createdAt": "2026-04-28T18:12:58.246Z"
+  },
+  {
+    "title": "Проверка",
+    "category": "Общее",
+    "duration": 30,
+    "maxParticipants": "1",
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "Работает все?",
+        "imageUrl": null,
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Да",
+            "isCorrect": false
+          },
+          {
+            "text": "Нет",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "questionText": "Точно?",
+        "imageUrl": null,
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "да да",
+            "isCorrect": true
+          },
+          {
+            "text": "нееет",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "GXR4TP",
+    "status": "draft",
+    "_id": "1777400950508cs8x6aj",
+    "createdAt": "2026-04-28T18:29:10.508Z"
+  },
+  {
+    "title": "Проверка",
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "questionText": "Работает все?",
+        "answers": [
+          {
+            "text": "да",
+            "isCorrect": true
+          },
+          {
+            "text": "нет",
+            "isCorrect": false
+          }
+        ],
+        "points": 100
+      },
+      {
+        "questionText": "Уверен",
+        "answers": [
+          {
+            "text": "Нет",
+            "isCorrect": true
+          },
+          {
+            "text": "Да",
+            "isCorrect": false
+          }
+        ],
+        "points": 100
+      }
+    ],
+    "roomCode": "QMRI6R",
+    "status": "draft",
+    "_id": "1777402148292sl34k05",
+    "createdAt": "2026-04-28T18:49:08.292Z"
+  },
+  {
+    "title": "Проверка2",
+    "category": "Общее",
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "Хуйня?",
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Да",
+            "isCorrect": true
+          },
+          {
+            "text": "Мб",
+            "isCorrect": false
+          },
+          {
+            "text": "Нет",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "questionText": "Уверен что не хуйня?",
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Да",
+            "isCorrect": false
+          },
+          {
+            "text": "Хуйня",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "roomCode": "BG0790",
+    "status": "draft",
+    "_id": "1777405165781ubu43b9",
+    "createdAt": "2026-04-28T19:39:25.781Z"
+  },
+  {
+    "title": "",
+    "category": "Общее",
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "Проверка",
+        "multipleChoice": false,
+        "timeLimit": 17,
+        "points": 32,
+        "answers": [
+          {
+            "text": "+",
+            "isCorrect": true
+          },
+          {
+            "text": "-",
+            "isCorrect": false
+          },
+          {
+            "text": "+",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "questionText": "Нравица?",
+        "multipleChoice": false,
+        "timeLimit": 10,
+        "points": 65,
+        "answers": [
+          {
+            "text": "ноуп",
+            "isCorrect": false
+          },
+          {
+            "text": "уеп",
+            "isCorrect": true
+          },
+          {
+            "text": "нкекркр",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "FUL4FD",
+    "status": "draft",
+    "_id": "mojtayixvwdsc",
+    "createdAt": "2026-04-29T08:47:43.689Z"
+  },
+  {
+    "title": "Проверка",
+    "category": "Общее",
+    "duration": 30,
+    "maxParticipants": 50,
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "бла",
+        "imageUrl": null,
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "Верно",
+            "isCorrect": true
+          },
+          {
+            "text": "Не верно",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "questionText": "уцаау",
+        "imageUrl": null,
+        "multipleChoice": false,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "цуацау",
+            "isCorrect": true
+          },
+          {
+            "text": "цауца",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "R549GR",
+    "status": "draft",
+    "_id": "mojxnexsvg0w4",
+    "createdAt": "2026-04-29T10:49:23.297Z"
+  }
+]
