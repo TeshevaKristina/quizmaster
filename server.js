@@ -55,7 +55,7 @@ app.post('/api/login', (req, res) => {
 });
 
 app.post('/api/quizzes', (req, res) => {
-  const q = add('quizzes', { ...req.body, roomCode: code(), status: 'draft', questions: req.body.questions || [] });
+  const q = add('quizzes', { ...req.body, roomCode: code(), status: 'active', questions: req.body.questions || [] });
   res.json(q);
 });
 
@@ -63,8 +63,49 @@ app.get('/api/quizzes/:uid', (req, res) => {
   res.json(load('quizzes').filter(q => q.organizerId === req.params.uid));
 });
 
+app.get('/api/stats/:organizerId', (req, res) => {
+  const quizzes = load('quizzes').filter(q => q.organizerId === req.params.organizerId);
+  const users = load('users');
+  const history = load('history').filter(h => h.organizerId === req.params.organizerId);
+  const totalQuizzes = quizzes.length;
+  const totalParticipants = users.filter(u => u.role === 'participant').length;
+  let totalScore = 0, totalPlayers = 0;
+  history.forEach(h => {
+    if (h.leaderboard) { h.leaderboard.forEach(p => { totalScore += p.score; totalPlayers++; }); }
+  });
+  const avgScore = totalPlayers > 0 ? Math.round(totalScore / totalPlayers) : 0;
+  res.json({ totalQuizzes, totalParticipants, avgScore: avgScore || '—' });
+});
+
 app.get('/api/history/:uid', (req, res) => {
-  res.json(load('history').filter(h => h.participants && h.participants.some(p => p.userId === req.params.uid)));
+  res.json(load('history').filter(h => h.organizerId === req.params.uid));
+});
+
+app.delete('/api/quizzes/:id', (req, res) => {
+  const quizzes = load('quizzes');
+  save('quizzes', quizzes.filter(q => q._id !== req.params.id));
+  res.json({ success: true });
+});
+
+app.put('/api/quizzes/:id', (req, res) => {
+  const quizzes = load('quizzes');
+  const idx = quizzes.findIndex(q => q._id === req.params.id);
+  if (idx !== -1) {
+    quizzes[idx] = { ...quizzes[idx], ...req.body };
+    save('quizzes', quizzes);
+    res.json(quizzes[idx]);
+  } else res.status(404).json({ error: 'Не найден' });
+});
+
+app.post('/api/quizzes/:id/restart', (req, res) => {
+  const quizzes = load('quizzes');
+  const idx = quizzes.findIndex(q => q._id === req.params.id);
+  if (idx !== -1) {
+    quizzes[idx].status = 'active';
+    quizzes[idx].roomCode = code();
+    save('quizzes', quizzes);
+    res.json(quizzes[idx]);
+  } else res.status(404).json({ error: 'Не найден' });
 });
 
 // ====== SOCKET.IO ======
@@ -176,6 +217,9 @@ io.on('connection', (socket) => {
       .sort((a, b) => b.score - a.score)
       .map((p, i) => ({ nickname: p.nickname, score: p.score, rank: i + 1, time: formatTime(p.totalTime || 0) }));
     io.to(roomCode).emit('leaderboard', { leaderboard });
+    const quizzes = load('quizzes');
+    const idx = quizzes.findIndex(q => q._id === room.quiz._id);
+    if (idx !== -1) { quizzes[idx].status = 'finished'; save('quizzes', quizzes); }
     add('history', { roomCode, quizTitle: room.quiz.title, organizerId: room.quiz.organizerId, participants: room.participants, leaderboard, finishedAt: new Date().toISOString() });
     delete rooms[roomCode];
   }

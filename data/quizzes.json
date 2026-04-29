@@ -77,93 +77,6 @@
     "createdAt": "2026-04-28T18:12:58.246Z"
   },
   {
-    "title": "Проверка",
-    "category": "Общее",
-    "duration": 30,
-    "maxParticipants": "1",
-    "organizerId": "1777400889169x24ogjd",
-    "questions": [
-      {
-        "type": "text",
-        "questionText": "Работает все?",
-        "imageUrl": null,
-        "multipleChoice": false,
-        "timeLimit": 30,
-        "points": 100,
-        "answers": [
-          {
-            "text": "Да",
-            "isCorrect": false
-          },
-          {
-            "text": "Нет",
-            "isCorrect": true
-          }
-        ]
-      },
-      {
-        "type": "text",
-        "questionText": "Точно?",
-        "imageUrl": null,
-        "multipleChoice": false,
-        "timeLimit": 30,
-        "points": 100,
-        "answers": [
-          {
-            "text": "да да",
-            "isCorrect": true
-          },
-          {
-            "text": "нееет",
-            "isCorrect": false
-          }
-        ]
-      }
-    ],
-    "roomCode": "GXR4TP",
-    "status": "draft",
-    "_id": "1777400950508cs8x6aj",
-    "createdAt": "2026-04-28T18:29:10.508Z"
-  },
-  {
-    "title": "Проверка",
-    "organizerId": "1777400889169x24ogjd",
-    "questions": [
-      {
-        "questionText": "Работает все?",
-        "answers": [
-          {
-            "text": "да",
-            "isCorrect": true
-          },
-          {
-            "text": "нет",
-            "isCorrect": false
-          }
-        ],
-        "points": 100
-      },
-      {
-        "questionText": "Уверен",
-        "answers": [
-          {
-            "text": "Нет",
-            "isCorrect": true
-          },
-          {
-            "text": "Да",
-            "isCorrect": false
-          }
-        ],
-        "points": 100
-      }
-    ],
-    "roomCode": "QMRI6R",
-    "status": "draft",
-    "_id": "1777402148292sl34k05",
-    "createdAt": "2026-04-28T18:49:08.292Z"
-  },
-  {
     "title": "Проверка2",
     "category": "Общее",
     "organizerId": "1777400889169x24ogjd",
@@ -213,59 +126,6 @@
     "createdAt": "2026-04-28T19:39:25.781Z"
   },
   {
-    "title": "",
-    "category": "Общее",
-    "organizerId": "1777400889169x24ogjd",
-    "questions": [
-      {
-        "type": "text",
-        "questionText": "Проверка",
-        "multipleChoice": false,
-        "timeLimit": 17,
-        "points": 32,
-        "answers": [
-          {
-            "text": "+",
-            "isCorrect": true
-          },
-          {
-            "text": "-",
-            "isCorrect": false
-          },
-          {
-            "text": "+",
-            "isCorrect": false
-          }
-        ]
-      },
-      {
-        "type": "text",
-        "questionText": "Нравица?",
-        "multipleChoice": false,
-        "timeLimit": 10,
-        "points": 65,
-        "answers": [
-          {
-            "text": "ноуп",
-            "isCorrect": false
-          },
-          {
-            "text": "уеп",
-            "isCorrect": true
-          },
-          {
-            "text": "нкекркр",
-            "isCorrect": false
-          }
-        ]
-      }
-    ],
-    "roomCode": "FUL4FD",
-    "status": "draft",
-    "_id": "mojtayixvwdsc",
-    "createdAt": "2026-04-29T08:47:43.689Z"
-  },
-  {
     "title": "Проверка",
     "category": "Общее",
     "duration": 30,
@@ -310,8 +170,74 @@
       }
     ],
     "roomCode": "R549GR",
-    "status": "draft",
+    "status": "finished",
     "_id": "mojxnexsvg0w4",
     "createdAt": "2026-04-29T10:49:23.297Z"
+  },
+  {
+    "title": "п",
+    "category": "Общее",
+    "duration": 30,
+    "maxParticipants": 50,
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "type": "image",
+        "questionText": "кто?",
+        "imageUrl": "https://avatars.mds.yandex.net/i?id=edb93ecf3166b300472cef699cf0ad96_l-12422703-images-thumbs&n=13",
+        "multipleChoice": true,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "его го",
+            "isCorrect": true
+          },
+          {
+            "text": "мяу",
+            "isCorrect": true
+          }
+        ]
+      }
+    ],
+    "roomCode": "QNOYAN",
+    "status": "finished",
+    "_id": "mok05h0h1obee",
+    "createdAt": "2026-04-29T11:59:25.025Z"
+  },
+  {
+    "title": "dsfaff",
+    "category": "История",
+    "duration": 30,
+    "maxParticipants": 50,
+    "organizerId": "1777400889169x24ogjd",
+    "questions": [
+      {
+        "type": "text",
+        "questionText": "safaf",
+        "imageUrl": null,
+        "multipleChoice": true,
+        "timeLimit": 30,
+        "points": 100,
+        "answers": [
+          {
+            "text": "sfees",
+            "isCorrect": true
+          },
+          {
+            "text": "sfef",
+            "isCorrect": true
+          },
+          {
+            "text": "sfa",
+            "isCorrect": false
+          }
+        ]
+      }
+    ],
+    "roomCode": "1DLI53",
+    "status": "finished",
+    "_id": "mok1n4ctl3wy4",
+    "createdAt": "2026-04-29T12:41:08.045Z"
   }
 ]
