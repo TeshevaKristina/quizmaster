@@ -2,8 +2,9 @@
 Веб-приложение для проведения квизов в реальном времени.  
 Выполнено в рамках учебного проекта.
 
-## Ссылка на макеты Figma
+## Ссылка на макет Figma и схему в Miro
 [Дизайн в Figma](https://www.figma.com/design/YUj44obPshCys9x5h88kSl/QuizMaster-%E2%80%94-Design?node-id=0-1&t=KnlV68Yzaj8wMMVY-1)
+[Схема в Miro](https://miro.com/app/board/uXjVHaGjULw=/?share_link_id=106904728520)
 
 ## Стек технологий
 - **Фронтенд:** React, HTML, CSS, JavaScript
