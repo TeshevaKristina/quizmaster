@@ -18,7 +18,7 @@
 Скачайте с [nodejs.org](https://nodejs.org) (версия LTS)
 
 ### 2. Скачайте проект
-git clone https://github.com/MarchenkoElisabeth/quiz_app.git
+git clone https://github.com/TeshevaKristina/quizmaster.git
 cd quiz_app
 
 ### 3. Установите зависимости сервера
